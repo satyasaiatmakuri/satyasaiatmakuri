@@ -21,6 +21,5 @@ BOOTSTRAP / REACT / JS / HTML / CSS -->
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/satyasai.atmakuri)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/satyasai_2712)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=satyasaiatmakuri)](https://github.com/anuraghazra/github-readme-stats)
  
 
